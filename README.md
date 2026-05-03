@@ -59,3 +59,6 @@ This project is open-source and available for personal and educational use.
 - History of calculations
 - Keyboard support for input
 - ThinkPad keyboard click sounds when pressing buttons
+
+## Community Recognition
+https://www.reddit.com/r/thinkpad/comments/1j9pdsy/was_learning_js_and_thought_why_not_build/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
